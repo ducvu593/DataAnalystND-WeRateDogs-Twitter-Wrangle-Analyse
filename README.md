@@ -22,7 +22,7 @@ A final report is provided to summarise the findings of the dataset.
 
 1. Download Jupyter Notebook for example through [Anaconda-Navigator](https://docs.anaconda.com/anaconda/navigator/).
 2. Open Jupyter Notebook either through the Anaconda-Navigator App or type "jupyter notebook" in the command line (this will open in a browser).
-3. Select directory that contains the Jupyter Notebook file (extension ipynb) and the CSV files. Make sure both files are in the same directory
+3. Select directory that contains the Jupyter Notebook file (extension ipynb) and the CSV files. Make sure all files are in the same directory as the notebook.
 4. Run the code from the toolbar.
 
 ### To Open the HTML File
