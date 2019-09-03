@@ -1,6 +1,5 @@
 # Data Wrangling and Exploratory Analysis - Twitter's WeRateDogs
-This is the fourth project of the Udacity's "Data Analyst Nanodegree". The Twitter's WeRateDogs dataset is investigated. 
-The core of this project revolves around the process of data wrangling and exploratory analysis of the data. 
+This is the fourth project of the Udacity's "Data Analyst Nanodegree". The Twitter's WeRateDogs dataset is investigated. This dataset contains the basic information of over 5000 tweets from WeRateDogs. The core of this project revolves around the process of data wrangling and exploratory analysis of the data. 
 
 In the data wrangling process, the data is first gathered from different sources (download programmatically and using Twitter's API).
 Then, the data is assessed and the tidiness and quality issues of the data are documented. 
@@ -9,6 +8,15 @@ Subsequently, these issues are addresssed through the cleaning of the data.
 The exploratory data analysis involves analysing the data and creating visualisations to convey interesting insights about the dataset.
 
 A final report is provided to summarise the findings of the dataset.
+
+### Quick Guide
+
+- A concise summary of the most interesting insights: **Report_Exploratory_Data_Analysis_and_Visualisations.pdf**. 
+- View the comprehensive code and comments: 
+    1. Open the **Wrangle_and_Analyse_Data.ipynb** and view it straight on GitHub, or
+    2. Open the **Wrangle_and_Analyse_Data.html** and prepend the URL with the URL link shown in the penultimate section.
+- Run the code: Follow the steps in the next section using the file **Wrangle_and_Analyse_Data.ipynb**.
+
 
 ### Running the Code in Jupyter Notebook 
 
@@ -23,7 +31,7 @@ Prepend the HTML link with https://htmlpreview.github.io/?.
 
 For example, https://htmlpreview.github.io/?https://github.com/ducvu593/DataAnalystND-Wrangle-Analyse-WeRateDogs-Twitter-Data/blob/master/Wrangle_and_Analyse_Data.html.
 
-### Understanding the Code
+### Understanding the Files
 
 For the "Data Wrangling Process" section, the files required are *twitter_archive_enhanced.csv*, *tweet_json.txt*, and another file downloaded from the web. 
 Note that the code that runs and obtains the Tweet information by querying Twitter AP should be skipped (Section 3 under Gathering Data). 
