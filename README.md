@@ -1,5 +1,5 @@
 # Data Wrangling and Exploratory Analysis - Twitter's WeRateDogs
-This is the fourth project of the Udacity's "Data Analyst Nanodegree". The Twitter's WeRateDogs dataset is investigated. This dataset contains the basic information of over 5000 tweets from WeRateDogs. The core of this project revolves around the process of data wrangling and exploratory analysis of the data. 
+The Twitter's WeRateDogs dataset is investigated. This dataset contains the basic information of over 5000 tweets from WeRateDogs. The core of this project revolves around the process of data wrangling and exploratory analysis of the data. 
 
 In the data wrangling process, the data is first gathered from different sources (download programmatically and using Twitter's API).
 Then, the data is assessed and the tidiness and quality issues of the data are documented. 
